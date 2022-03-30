@@ -21,7 +21,7 @@ REST API creada con Python, el framework web Flask y con data que se descargo en
 
    `$ pip3 install -r requirements.txt`
 
-3. Luego a traves del shell se ingresa a la carpeta principal, luego ingresas a la carpeta controlles y se ejecuta el siguiente comando
+3. Luego a traves del shell se ingresa a la carpeta principal, luego ingresas a la carpeta controller y se ejecuta el siguiente comando
 
    `$ flask run`
 
