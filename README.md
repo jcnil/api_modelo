@@ -23,7 +23,7 @@ REST API creada con Python, el framework web Flask y con data que se descargo en
 
 3. Luego a traves del shell se ingresa a la carpeta principal y se ejecuta el siguiente comando
 
-   `$ python3 src/app.py`
+   `$ flask run`
 
 Ahora, la API está escuchando en el puerto localhost 5000. Los endpoints son:
 
